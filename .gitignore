@@ -19,3 +19,6 @@ dist/
 .env*
 
 备注.txt
+
+backend/.venv/
+
